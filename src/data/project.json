@@ -1,0 +1,3425 @@
+{
+    "data": {
+        "searchProject": [
+            {
+                "id": "31",
+                "name": "IT-Square",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "running",
+                "contentStatus": "this is stuck",
+                "memberJoin": [
+                    {
+                        "userId": "1",
+                        "name": "kelvin",
+                        "postion": "BE",
+                        "skill": "php",
+                        "exip": "create AI",
+                        "level": "senior"
+                    },
+                    {
+                        "userId": "2",
+                        "name": "kids",
+                        "postion": "FE",
+                        "skill": "ReactJs",
+                        "exip": "create UI",
+                        "level": "junior"
+                    },
+                    {
+                        "userId": "3",
+                        "name": "devill",
+                        "postion": "Leader",
+                        "skill": "ReactJs",
+                        "exip": "create UI",
+                        "level": "junior"
+                    }
+                ],
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-16T06:57:08.882Z",
+                "updatedAt": "2022-03-17T09:30:02.625Z"
+            },
+            {
+                "id": "46",
+                "name": "Smile eye",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "draft",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-17T08:40:38.849Z",
+                "updatedAt": "2022-03-17T08:40:38.850Z"
+            },
+            {
+                "id": "45",
+                "name": "TodoList",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "draft",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-17T08:40:30.796Z",
+                "updatedAt": "2022-03-17T08:40:30.796Z"
+            },
+            {
+                "id": "44",
+                "name": "Engineer software",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "draft",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-17T08:39:04.128Z",
+                "updatedAt": "2022-03-17T08:39:04.129Z"
+            },
+            {
+                "id": "43",
+                "name": "app AI",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "draft",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-17T08:34:04.885Z",
+                "updatedAt": "2022-03-17T08:34:04.886Z"
+            },
+            {
+                "id": "42",
+                "name": "app AI",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": [
+                    {
+                        "id": "28",
+                        "position": "Dev",
+                        "memberUserId": null,
+                        "memberUser": null
+                    },
+                    {
+                        "id": "29",
+                        "position": "FE",
+                        "memberUserId": null,
+                        "memberUser": null
+                    },
+                    {
+                        "id": "30",
+                        "position": "BE",
+                        "memberUserId": null,
+                        "memberUser": null
+                    },
+                    {
+                        "id": "31",
+                        "position": "Design",
+                        "memberUserId": null,
+                        "memberUser": null
+                    },
+                    {
+                        "id": "32",
+                        "position": "Leader",
+                        "memberUserId": null,
+                        "memberUser": null
+                    }
+                ],
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-16T07:30:01.803Z",
+                "updatedAt": "2022-03-16T07:30:01.803Z"
+            },
+            {
+                "id": "41",
+                "name": "app AI",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-16T07:12:42.538Z",
+                "updatedAt": "2022-03-16T07:12:42.539Z"
+            },
+            {
+                "id": "40",
+                "name": "app AI",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-16T07:12:29.445Z",
+                "updatedAt": "2022-03-16T07:12:29.446Z"
+            },
+            {
+                "id": "39",
+                "name": "app AI",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-16T07:12:03.435Z",
+                "updatedAt": "2022-03-16T07:12:03.436Z"
+            },
+            {
+                "id": "38",
+                "name": "app AI",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-16T07:06:58.896Z",
+                "updatedAt": "2022-03-16T07:06:58.897Z"
+            },
+            {
+                "id": "37",
+                "name": "app AI",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-16T07:05:24.499Z",
+                "updatedAt": "2022-03-16T07:05:24.499Z"
+            },
+            {
+                "id": "36",
+                "name": "app learn english",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-16T07:04:01.743Z",
+                "updatedAt": "2022-03-16T07:04:01.743Z"
+            },
+            {
+                "id": "35",
+                "name": "app learn english",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-16T07:03:28.182Z",
+                "updatedAt": "2022-03-16T07:03:28.183Z"
+            },
+            {
+                "id": "34",
+                "name": "app learn english",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-16T07:03:01.852Z",
+                "updatedAt": "2022-03-16T07:03:01.853Z"
+            },
+            {
+                "id": "33",
+                "name": "app learn english",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-16T07:02:20.060Z",
+                "updatedAt": "2022-03-16T07:02:20.060Z"
+            },
+            {
+                "id": "32",
+                "name": "app learn english",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-16T06:59:32.947Z",
+                "updatedAt": "2022-03-16T06:59:32.948Z"
+            },
+            {
+                "id": "30",
+                "name": "facebook",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-16T06:34:20.175Z",
+                "updatedAt": "2022-03-16T06:34:20.176Z"
+            },
+            {
+                "id": "29",
+                "name": "facebook",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-16T06:33:04.380Z",
+                "updatedAt": "2022-03-16T06:33:04.380Z"
+            },
+            {
+                "id": "28",
+                "name": "facebook",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-16T06:29:46.116Z",
+                "updatedAt": "2022-03-16T06:29:46.116Z"
+            },
+            {
+                "id": "27",
+                "name": "Google",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-16T06:27:31.630Z",
+                "updatedAt": "2022-03-16T06:27:31.630Z"
+            },
+            {
+                "id": "26",
+                "name": "Google",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-16T06:14:44.039Z",
+                "updatedAt": "2022-03-16T06:14:44.040Z"
+            },
+            {
+                "id": "1",
+                "name": "IT-Square",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": [
+                    {
+                        "id": "4",
+                        "position": "FE",
+                        "memberUserId": "2",
+                        "memberUser": {
+                            "id": "2",
+                            "name": "kelvin",
+                            "avatar_attachment": null
+                        }
+                    },
+                    {
+                        "id": "6",
+                        "position": "FE",
+                        "memberUserId": null,
+                        "memberUser": null
+                    },
+                    {
+                        "id": "7",
+                        "position": "FE",
+                        "memberUserId": null,
+                        "memberUser": null
+                    },
+                    {
+                        "id": "8",
+                        "position": "FE",
+                        "memberUserId": null,
+                        "memberUser": null
+                    },
+                    {
+                        "id": "9",
+                        "position": "FE",
+                        "memberUserId": null,
+                        "memberUser": null
+                    },
+                    {
+                        "id": "11",
+                        "position": "FE",
+                        "memberUserId": "3",
+                        "memberUser": {
+                            "id": "3",
+                            "name": "tester",
+                            "avatar_attachment": null
+                        }
+                    },
+                    {
+                        "id": "42",
+                        "position": "BE",
+                        "memberUserId": null,
+                        "memberUser": null
+                    }
+                ],
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "running",
+                "contentStatus": "this is stuck",
+                "memberJoin": [
+                    {
+                        "postion": "BE",
+                        "skill": "php",
+                        "exip": "create AI",
+                        "level": "senior"
+                    },
+                    {
+                        "postion": "FE",
+                        "skill": "ReactJs",
+                        "exip": "create UI",
+                        "level": "junior"
+                    }
+                ],
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-02-22T03:01:52.698Z",
+                "updatedAt": "2022-03-16T03:42:07.658Z"
+            },
+            {
+                "id": "12",
+                "name": "IT",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": null,
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-02-28T07:57:32.503Z",
+                "updatedAt": "2022-03-16T02:16:23.005Z"
+            },
+            {
+                "id": "25",
+                "name": "Google",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-15T10:00:19.277Z",
+                "updatedAt": "2022-03-15T10:00:19.277Z"
+            },
+            {
+                "id": "24",
+                "name": "IT-Square",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "running",
+                "contentStatus": "this is stuck",
+                "memberJoin": [
+                    {
+                        "postion": "BE",
+                        "skill": "php",
+                        "exip": "create AI",
+                        "level": "senior"
+                    },
+                    {
+                        "postion": "FE",
+                        "skill": "ReactJs",
+                        "exip": "create UI",
+                        "level": "junior"
+                    }
+                ],
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-15T07:08:36.158Z",
+                "updatedAt": "2022-03-15T07:49:12.581Z"
+            },
+            {
+                "id": "23",
+                "name": "Google",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-15T04:53:54.064Z",
+                "updatedAt": "2022-03-15T04:53:54.065Z"
+            },
+            {
+                "id": "22",
+                "name": "Google",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-15T04:51:05.150Z",
+                "updatedAt": "2022-03-15T04:51:05.150Z"
+            },
+            {
+                "id": "21",
+                "name": "Google",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-15T04:48:47.145Z",
+                "updatedAt": "2022-03-15T04:48:47.146Z"
+            },
+            {
+                "id": "20",
+                "name": "Google",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-15T04:29:39.473Z",
+                "updatedAt": "2022-03-15T04:29:39.474Z"
+            },
+            {
+                "id": "19",
+                "name": "Facebook",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-15T04:09:50.992Z",
+                "updatedAt": "2022-03-15T04:09:50.992Z"
+            },
+            {
+                "id": "18",
+                "name": "Facebook",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-15T04:08:49.996Z",
+                "updatedAt": "2022-03-15T04:08:49.996Z"
+            },
+            {
+                "id": "17",
+                "name": "IT-Square",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "registering",
+                "contentStatus": "this is stuck",
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-14T02:24:47.068Z",
+                "updatedAt": "2022-03-14T02:24:47.069Z"
+            },
+            {
+                "id": "16",
+                "name": "IT",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": null,
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-01T06:07:36.617Z",
+                "updatedAt": "2022-03-01T06:07:36.617Z"
+            },
+            {
+                "id": "14",
+                "name": "IT",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": null,
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-01T01:16:25.136Z",
+                "updatedAt": "2022-03-01T01:16:25.137Z"
+            },
+            {
+                "id": "13",
+                "name": "IT",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": null,
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-03-01T00:59:29.769Z",
+                "updatedAt": "2022-03-01T00:59:29.769Z"
+            },
+            {
+                "id": "11",
+                "name": "IT",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": null,
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-02-28T07:37:59.096Z",
+                "updatedAt": "2022-02-28T07:37:59.097Z"
+            },
+            {
+                "id": "2",
+                "name": "IT-Square",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": [
+                    {
+                        "id": "1",
+                        "position": "dev",
+                        "memberUserId": "1",
+                        "memberUser": {
+                            "id": "1",
+                            "name": "users",
+                            "avatar_attachment": [
+                                {
+                                    "id": 1,
+                                    "thumb": "avatar.png"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": "3",
+                        "position": "leader",
+                        "memberUserId": "1",
+                        "memberUser": {
+                            "id": "1",
+                            "name": "users",
+                            "avatar_attachment": [
+                                {
+                                    "id": 1,
+                                    "thumb": "avatar.png"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": "5",
+                        "position": "pm",
+                        "memberUserId": "1",
+                        "memberUser": {
+                            "id": "1",
+                            "name": "users",
+                            "avatar_attachment": [
+                                {
+                                    "id": 1,
+                                    "thumb": "avatar.png"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "running",
+                "contentStatus": null,
+                "memberJoin": [
+                    {
+                        "userId": 2,
+                        "postion": "BE",
+                        "skill": "php",
+                        "exip": "create AI",
+                        "level": "senior"
+                    }
+                ],
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-02-22T04:12:42.109Z",
+                "updatedAt": "2022-02-28T04:24:59.812Z"
+            },
+            {
+                "id": "10",
+                "name": "test IT",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": null,
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-02-28T03:48:09.374Z",
+                "updatedAt": "2022-02-28T03:48:09.375Z"
+            },
+            {
+                "id": "9",
+                "name": "it project",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": null,
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "pending",
+                "contentStatus": null,
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-02-28T03:48:02.094Z",
+                "updatedAt": "2022-02-28T03:48:02.095Z"
+            },
+            {
+                "id": "8",
+                "name": "smile eyes",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": [
+                    {
+                        "id": "35",
+                        "position": "BE",
+                        "memberUserId": "9",
+                        "memberUser": {
+                            "id": "9",
+                            "name": "hacker pro",
+                            "avatar_attachment": null
+                        }
+                    },
+                    {
+                        "id": "38",
+                        "position": "BE",
+                        "memberUserId": null,
+                        "memberUser": null
+                    },
+                    {
+                        "id": "39",
+                        "position": "BE",
+                        "memberUserId": null,
+                        "memberUser": null
+                    },
+                    {
+                        "id": "40",
+                        "position": "BE",
+                        "memberUserId": null,
+                        "memberUser": null
+                    },
+                    {
+                        "id": "41",
+                        "position": "BE",
+                        "memberUserId": null,
+                        "memberUser": null
+                    }
+                ],
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "registering",
+                "contentStatus": null,
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-02-25T07:09:24.568Z",
+                "updatedAt": "2022-02-25T07:09:24.571Z"
+            },
+            {
+                "id": "7",
+                "name": "smile eyes",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": [
+                    {
+                        "id": "34",
+                        "position": "BE",
+                        "memberUserId": "9",
+                        "memberUser": {
+                            "id": "9",
+                            "name": "hacker pro",
+                            "avatar_attachment": null
+                        }
+                    }
+                ],
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "registering",
+                "contentStatus": null,
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-02-25T00:54:23.618Z",
+                "updatedAt": "2022-02-25T00:54:23.618Z"
+            },
+            {
+                "id": "6",
+                "name": "IT-Square",
+                "user": {
+                    "email": "test6034@gmail.com",
+                    "id": "2",
+                    "name": "kelvin",
+                    "avatar_attachment": null
+                },
+                "members": [
+                    {
+                        "id": "33",
+                        "position": "FE",
+                        "memberUserId": "3",
+                        "memberUser": {
+                            "id": "3",
+                            "name": "tester",
+                            "avatar_attachment": null
+                        }
+                    }
+                ],
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 2,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "registering",
+                "contentStatus": null,
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-02-22T09:22:19.184Z",
+                "updatedAt": "2022-02-22T09:22:19.184Z"
+            },
+            {
+                "id": "5",
+                "name": "IT-Square",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": [
+                    {
+                        "id": "2",
+                        "position": "Leader",
+                        "memberUserId": "2",
+                        "memberUser": {
+                            "id": "2",
+                            "name": "kelvin",
+                            "avatar_attachment": null
+                        }
+                    }
+                ],
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "registering",
+                "contentStatus": null,
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-02-22T07:54:07.243Z",
+                "updatedAt": "2022-02-22T07:54:07.244Z"
+            },
+            {
+                "id": "4",
+                "name": "IT-Square",
+                "user": {
+                    "email": "test6034@gmail.com",
+                    "id": "2",
+                    "name": "kelvin",
+                    "avatar_attachment": null
+                },
+                "members": [
+                    {
+                        "id": "43",
+                        "position": "BE",
+                        "memberUserId": null,
+                        "memberUser": null
+                    }
+                ],
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 2,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "ideas",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "registering",
+                "contentStatus": null,
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-02-22T07:54:06.240Z",
+                "updatedAt": "2022-02-22T07:54:06.241Z"
+            },
+            {
+                "id": "3",
+                "name": "IT-Square",
+                "user": {
+                    "email": "nhnamsđas2@gmail.com",
+                    "id": "1",
+                    "name": "users",
+                    "avatar_attachment": [
+                        {
+                            "id": 1,
+                            "thumb": "avatar.png"
+                        }
+                    ]
+                },
+                "members": [
+                    {
+                        "id": "36",
+                        "position": "FE",
+                        "memberUserId": null,
+                        "memberUser": null
+                    },
+                    {
+                        "id": "37",
+                        "position": "FE",
+                        "memberUserId": "5",
+                        "memberUser": {
+                            "id": "5",
+                            "name": "kelvin",
+                            "avatar_attachment": null
+                        }
+                    }
+                ],
+                "attachments": {
+                    "main_picture": [
+                        {
+                            "id": 1,
+                            "thumb": "mainPicture.png"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "mainPicture2.png"
+                        }
+                    ],
+                    "plitch_deck": [
+                        {
+                            "id": 1,
+                            "thumb": "plitchDeck.pdf"
+                        },
+                        {
+                            "id": 2,
+                            "thumb": "plitchDeck2.pdf"
+                        }
+                    ],
+                    "other": [
+                        {
+                            "id": 7,
+                            "thumb": "fileVideo.mp4"
+                        },
+                        {
+                            "id": 9,
+                            "thumb": "fileWord.DOCX"
+                        }
+                    ]
+                },
+                "authorUserId": 1,
+                "category": "website",
+                "description": "create website for it engineerd",
+                "level": "medium",
+                "privacy": "public",
+                "version": "0.1",
+                "budget": {
+                    "money": "200000",
+                    "iso_code": "USD"
+                },
+                "type": "project",
+                "salary": {
+                    "money": "15000",
+                    "iso_code": "USD"
+                },
+                "status": "registering",
+                "contentStatus": null,
+                "memberJoin": null,
+                "is_recruit": true,
+                "is_involved": true,
+                "createdAt": "2022-02-22T07:52:33.456Z",
+                "updatedAt": "2022-02-22T07:52:33.458Z"
+            }
+        ]
+    }
+}
