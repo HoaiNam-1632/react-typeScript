@@ -1,5 +1,5 @@
 import React from "react";
-import { Star, IconInfo } from "../../component/DetailUserComponent"
+import { Star, IconInfo } from "../../components/DetailUserComponent"
 import { AiOutlineSetting } from 'react-icons/ai'
 import {HiOutlineLogout} from 'react-icons/hi'
 type Props = {

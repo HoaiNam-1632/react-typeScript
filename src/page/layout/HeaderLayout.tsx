@@ -8,6 +8,7 @@ import { MdOutlineBusinessCenter } from 'react-icons/md'
 import { IoIosPeople } from 'react-icons/io'
 
 import UserInfo from './UserInfoLayout'
+import CreateProjectLayout from './CreateProjectLayout'
 import { useState } from "react";
 import { Attributes } from 'react'
 
@@ -57,8 +58,6 @@ const HeaderLayout = ({ children }: Props) => {
     const toggleMenu = () => {
         setMenuShow(!menuShow);
     };
-
-
     return (
         <div className='bg-slate-50 my-16 flex w-full'>
             <div className="w-full fixed top-0 left-0 right-0 z-[99]">
@@ -73,7 +72,7 @@ const HeaderLayout = ({ children }: Props) => {
                     <h3 className="text-center my-auto ml-[1em] text-[20px]">SmileEye</h3>
                     <input className="my-auto ml-20 pl-2 outline-none mr-0  w-[25em] h-[2.5em] rounded-l-lg border-[1px] " type={'text'} />
                     <span className="text-[20px] justify-center outline-none rounded-r-lg border-[1px] border-l-0 w-[40px] h-[40px] my-auto relative">
-                        <span className="absolute  top-2 left-2"> <BiSearch /></span>
+                        <button className="absolute  top-2 left-2" > <BiSearch /></button>
                     </span>
                     <span className="text-[35px] my-auto ml-5 mr-0"><IoMicCircleOutline /></span>
                     <button className="ml-10 mr-5  my-auto rounded-xl w-[12em] h-[3em] bg-orange-500 hover:bg-orange-400 text-white">+ New idea/project</button>
@@ -85,7 +84,7 @@ const HeaderLayout = ({ children }: Props) => {
                     </div>
                 </div>
                 <label>
-                    <div className={`bg-black w-full h-full opacity-40 z-[99] fixed top-0 ${menuShow ? 'block' : 'hidden'} `}></div>
+                    <div className={`bg-black w-full h-full opacity-40 z-[99] fixed top-0 ${menuShow ? 'block' : 'block'} `}></div>
                     <div id="sideBar" className={`bg-white w-[20em] z-[99]  absolute ease-in-out duration-[420ms] top-0  ${menuShow ? 'left-0' : 'left-[-20em]'} `}>
                         <div className="flex relative">
                             <img className="w-12 h-12 my-auto mx-5 ml-2"
@@ -126,6 +125,9 @@ const HeaderLayout = ({ children }: Props) => {
                     </div>
                 </label>
             </div>
+            <div id="createProject" className=''>
+                       <CreateProjectLayout/>
+                </div>
             <div className='w-auto'>
                 {children}
             </div>

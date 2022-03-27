@@ -4,7 +4,7 @@ import { IoMaleFemale } from 'react-icons/io5'
 import { GrMail } from 'react-icons/gr'
 import { FaMapMarkerAlt } from 'react-icons/fa'
 import { RiCheckboxBlankFill } from 'react-icons/ri'
-import { Star, IconInfo, ListProject, JoinProject, GridProject, Card } from '../../component/DetailUserComponent'
+import { Star, IconInfo, ListProject, JoinProject, GridProject, Card } from '../../components/DetailUserComponent'
 const DetailUserPage = () => {
     return (
         <HeaderLayout>

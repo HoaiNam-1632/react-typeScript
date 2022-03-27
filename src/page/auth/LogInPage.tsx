@@ -1,5 +1,5 @@
-import AuthComponent from '../../component/AuthComponent'
-import InputPassword from '../../component/inputComponent'
+import AuthComponent from '../../components/AuthComponent'
+import InputPassword from '../../components/inputComponent'
 const LogInPage = () => {
     return (
         <AuthComponent>
